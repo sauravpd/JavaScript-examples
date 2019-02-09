@@ -9,4 +9,7 @@ class User
 }
 
 const steve=new User('Steve','Anderson',25);
+console.log(steve)
 
+const Mike=new User();
+console.log(Mike);//undefined
