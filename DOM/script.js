@@ -1,0 +1,1 @@
+const data=document.createElement("h2")
